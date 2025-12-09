@@ -203,8 +203,8 @@ This is the same technique used by the standard `offsetof` macro, but implemente
 
 ## Related Projects
 
-- [cjsonc](https://github.com/lucasbrites/Cjson) - JSON library built on CReflect
-- [crest](https://github.com/lucasbrites/Crest) - REST framework for C
+- [cjson](https://github.com/Lucas-Brites1/cjson) - JSON library built on CReflect
+- [crest](https://github.com/Lucas-Brites1/crest) - REST framework for C
 
 ## License
 
