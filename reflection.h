@@ -34,6 +34,7 @@ typedef struct
   const char *name;
   t_reflect_kind type;
   t_size offset;
+  void *child_meta;
 } t_reflect_field;
 
 typedef struct
